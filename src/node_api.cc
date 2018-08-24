@@ -2352,7 +2352,7 @@ napi_status napi_get_value_string_latin1(napi_env env,
                                          char* buf,
                                          size_t bufsize,
                                          size_t* result) {
-  CHECK_ENV(env);
+  NAPI_PREAMBLE(env);
   CHECK_ARG(env, value);
 
   v8::Local<v8::Value> val = v8impl::V8LocalValueFromJsValue(value);
@@ -2375,7 +2375,7 @@ napi_status napi_get_value_string_latin1(napi_env env,
     }
   }
 
-  return napi_clear_last_error(env);
+  return GET_RETURN_STATUS(env);
 }
 
 // Copies a JavaScript string into a UTF-8 string buffer. The result is the
@@ -2391,7 +2391,7 @@ napi_status napi_get_value_string_utf8(napi_env env,
                                        char* buf,
                                        size_t bufsize,
                                        size_t* result) {
-  CHECK_ENV(env);
+  NAPI_PREAMBLE(env);
   CHECK_ARG(env, value);
 
   v8::Local<v8::Value> val = v8impl::V8LocalValueFromJsValue(value);
@@ -2414,7 +2414,7 @@ napi_status napi_get_value_string_utf8(napi_env env,
     }
   }
 
-  return napi_clear_last_error(env);
+  return GET_RETURN_STATUS(env);
 }
 
 // Copies a JavaScript string into a UTF-16 string buffer. The result is the
@@ -2430,7 +2430,7 @@ napi_status napi_get_value_string_utf16(napi_env env,
                                         char16_t* buf,
                                         size_t bufsize,
                                         size_t* result) {
-  CHECK_ENV(env);
+  NAPI_PREAMBLE(env);
   CHECK_ARG(env, value);
 
   v8::Local<v8::Value> val = v8impl::V8LocalValueFromJsValue(value);
@@ -2453,7 +2453,7 @@ napi_status napi_get_value_string_utf16(napi_env env,
     }
   }
 
-  return napi_clear_last_error(env);
+  return GET_RETURN_STATUS(env);
 }
 
 napi_status napi_coerce_to_object(napi_env env,
