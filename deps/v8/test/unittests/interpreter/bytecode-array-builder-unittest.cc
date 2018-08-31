@@ -375,8 +375,10 @@ TEST_F(BytecodeArrayBuilderTest, AllBytecodesGenerated) {
       .CreateRegExpLiteral(ast_factory.GetOneByteString("wide_literal"), 0, 0)
       .CreateArrayLiteral(0, 0, 0)
       .CreateEmptyArrayLiteral(0)
+      .CreateArrayFromIterable()
       .CreateObjectLiteral(0, 0, 0, reg)
-      .CreateEmptyObjectLiteral();
+      .CreateEmptyObjectLiteral()
+      .CloneObject(reg, 0, 0);
 
   // Emit load and store operations for module variables.
   builder.LoadModuleVariable(-1, 42)
@@ -630,7 +632,7 @@ TEST_F(BytecodeArrayBuilderTest, ForwardJumps) {
   iterator.Advance();
 
   CHECK_EQ(iterator.current_bytecode(), Bytecode::kJumpConstant);
-  CHECK_EQ(*iterator.GetConstantForIndexOperand(0),
+  CHECK_EQ(iterator.GetConstantForIndexOperand(0),
            Smi::FromInt(kFarJumpDistance));
   iterator.Advance();
 
@@ -638,7 +640,7 @@ TEST_F(BytecodeArrayBuilderTest, ForwardJumps) {
   iterator.Advance();
 
   CHECK_EQ(iterator.current_bytecode(), Bytecode::kJumpIfTrueConstant);
-  CHECK_EQ(*iterator.GetConstantForIndexOperand(0),
+  CHECK_EQ(iterator.GetConstantForIndexOperand(0),
            Smi::FromInt(kFarJumpDistance - 5));
   iterator.Advance();
 
@@ -646,7 +648,7 @@ TEST_F(BytecodeArrayBuilderTest, ForwardJumps) {
   iterator.Advance();
 
   CHECK_EQ(iterator.current_bytecode(), Bytecode::kJumpIfFalseConstant);
-  CHECK_EQ(*iterator.GetConstantForIndexOperand(0),
+  CHECK_EQ(iterator.GetConstantForIndexOperand(0),
            Smi::FromInt(kFarJumpDistance - 10));
   iterator.Advance();
 
@@ -654,7 +656,7 @@ TEST_F(BytecodeArrayBuilderTest, ForwardJumps) {
   iterator.Advance();
 
   CHECK_EQ(iterator.current_bytecode(), Bytecode::kJumpIfToBooleanTrueConstant);
-  CHECK_EQ(*iterator.GetConstantForIndexOperand(0),
+  CHECK_EQ(iterator.GetConstantForIndexOperand(0),
            Smi::FromInt(kFarJumpDistance - 15));
   iterator.Advance();
 
@@ -663,7 +665,7 @@ TEST_F(BytecodeArrayBuilderTest, ForwardJumps) {
 
   CHECK_EQ(iterator.current_bytecode(),
            Bytecode::kJumpIfToBooleanFalseConstant);
-  CHECK_EQ(*iterator.GetConstantForIndexOperand(0),
+  CHECK_EQ(iterator.GetConstantForIndexOperand(0),
            Smi::FromInt(kFarJumpDistance - 20));
   iterator.Advance();
 }

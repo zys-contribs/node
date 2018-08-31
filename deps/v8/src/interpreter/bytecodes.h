@@ -247,10 +247,13 @@ namespace interpreter {
     OperandType::kIdx, OperandType::kFlag8)                                    \
   V(CreateArrayLiteral, AccumulatorUse::kWrite, OperandType::kIdx,             \
     OperandType::kIdx, OperandType::kFlag8)                                    \
+  V(CreateArrayFromIterable, AccumulatorUse::kReadWrite)                       \
   V(CreateEmptyArrayLiteral, AccumulatorUse::kWrite, OperandType::kIdx)        \
   V(CreateObjectLiteral, AccumulatorUse::kNone, OperandType::kIdx,             \
     OperandType::kIdx, OperandType::kFlag8, OperandType::kRegOut)              \
   V(CreateEmptyObjectLiteral, AccumulatorUse::kWrite)                          \
+  V(CloneObject, AccumulatorUse::kWrite, OperandType::kReg,                    \
+    OperandType::kFlag8, OperandType::kIdx)                                    \
                                                                                \
   /* Tagged templates */                                                       \
   V(GetTemplateObject, AccumulatorUse::kWrite, OperandType::kIdx,              \
@@ -693,11 +696,6 @@ class V8_EXPORT_PRIVATE Bytecodes final : public AllStatic {
 #define OR_BYTECODE(NAME) || bytecode == Bytecode::k##NAME
     return false RETURN_BYTECODE_LIST(OR_BYTECODE);
 #undef OR_BYTECODE
-  }
-
-  // Returns the number of values which |bytecode| returns.
-  static constexpr size_t ReturnCount(Bytecode bytecode) {
-    return Returns(bytecode) ? 1 : 0;
   }
 
   // Returns the number of operands expected by |bytecode|.

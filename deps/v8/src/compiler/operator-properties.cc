@@ -73,9 +73,11 @@ bool OperatorProperties::HasFrameStateInput(const Operator* op) {
     case IrOpcode::kJSCreateArray:
     case IrOpcode::kJSCreateTypedArray:
     case IrOpcode::kJSCreateLiteralArray:
+    case IrOpcode::kJSCreateArrayFromIterable:
     case IrOpcode::kJSCreateLiteralObject:
     case IrOpcode::kJSCreateLiteralRegExp:
     case IrOpcode::kJSCreateObject:
+    case IrOpcode::kJSCloneObject:
 
     // Property access operations
     case IrOpcode::kJSLoadNamed:
@@ -93,6 +95,7 @@ bool OperatorProperties::HasFrameStateInput(const Operator* op) {
     case IrOpcode::kJSToLength:
     case IrOpcode::kJSToName:
     case IrOpcode::kJSToNumber:
+    case IrOpcode::kJSToNumberConvertBigInt:
     case IrOpcode::kJSToNumeric:
     case IrOpcode::kJSToObject:
     case IrOpcode::kJSToString:
@@ -123,6 +126,7 @@ bool OperatorProperties::HasFrameStateInput(const Operator* op) {
     case IrOpcode::kJSResolvePromise:
     case IrOpcode::kJSPerformPromiseThen:
     case IrOpcode::kJSObjectIsArray:
+    case IrOpcode::kJSRegExpTest:
       return true;
 
     default:
