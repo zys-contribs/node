@@ -53,6 +53,7 @@ using v8::FunctionCallbackInfo;
 using v8::GCCallbackFlags;
 using v8::GCType;
 using v8::HandleScope;
+using v8::Int32;
 using v8::Isolate;
 using v8::Local;
 using v8::Object;
@@ -75,7 +76,7 @@ using v8::Value;
         "expected object for " #obj " to contain integer member " #member);\
   }                                                                        \
   *valp = obj->Get(OneByteString(env->isolate(), #member))                 \
-      ->Int32Value();
+      .As<Int32>()->Value();
 
 #define SLURP_OBJECT(obj, member, valp)                                    \
   if (!(obj)->IsObject()) {                                                \

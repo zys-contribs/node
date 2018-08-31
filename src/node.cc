@@ -2565,7 +2565,7 @@ static void DebugProcess(const FunctionCallbackInfo<Value>& args) {
     goto out;
   }
 
-  pid = (DWORD) args[0]->IntegerValue();
+  pid = (DWORD) args[0].As<Integer>()->Value();
 
   process = OpenProcess(PROCESS_CREATE_THREAD | PROCESS_QUERY_INFORMATION |
                             PROCESS_VM_OPERATION | PROCESS_VM_WRITE |
