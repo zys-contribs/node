@@ -2,7 +2,7 @@
 'use strict';
 const common = require('../common');
 const assert = require('assert');
-const { StreamWrap } = require('_stream_wrap');
+const { StreamWrap } = require('internal/wrap_js_stream');
 const { Duplex } = require('stream');
 const { internalBinding } = require('internal/test/binding');
 const { ShutdownWrap } = internalBinding('stream_wrap');

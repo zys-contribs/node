@@ -1,7 +1,7 @@
 'use strict';
 const common = require('../common');
 const assert = require('assert');
-const StreamWrap = require('_stream_wrap');
+const StreamWrap = require('internal/wrap_js_stream');
 const { PassThrough } = require('stream');
 const { Socket } = require('net');
 
