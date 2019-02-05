@@ -38,7 +38,9 @@ node_g
 icu_config.gypi
 .eslintcache
 node_trace.*.log
+build/
 coverage/
+gcovr/
 !**/node_modules/**/coverage
 
 /out
