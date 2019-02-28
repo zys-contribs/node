@@ -152,6 +152,7 @@
       'lib/internal/modules/esm/module_map.js',
       'lib/internal/modules/esm/translators.js',
       'lib/internal/net.js',
+      'lib/internal/net/socket.js',
       'lib/internal/options.js',
       'lib/internal/policy/manifest.js',
       'lib/internal/policy/sri.js',
