@@ -1,0 +1,542 @@
+"binary", "filename", "configuration", "rate", "time"
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='@'", 905664.2050713573, 0.001104162
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='@'", 1060849.2522604044, 0.000942641
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='@'", 1092355.3694182006, 0.000915453
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='@'", 666012.198679431, 0.001501474
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='@'", 750304.623677213, 0.001332792
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='@'", 344158.257733236, 0.00290564
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='@'", 761710.924610423, 0.001312834
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='@'", 836859.3005195222, 0.001194944
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='SQ'", 507581.7485785173, 0.001970126
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='SQ'", 393277.9362032398, 0.002542731
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='SQ'", 466250.8952017188, 0.002144768
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='SQ'", 377319.76189613744, 0.002650272
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='SQ'", 302807.14334163425, 0.003302432
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='SQ'", 245301.9765452062, 0.004076608
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='SQ'", 459445.2290747968, 0.002176538
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='SQ'", 273381.05108452996, 0.003657898
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='10x'", 708143.0788928042, 0.001412144
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='10x'", 765669.815611395, 0.001306046
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='10x'", 474432.8155689873, 0.00210778
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='10x'", 814079.6707210548, 0.001228381
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='10x'", 893149.0111947297, 0.001119634
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='10x'", 741976.8191602159, 0.001347751
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='10x'", 1001979.9123067182, 0.000998024
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='10x'", 741939.9355105808, 0.001347818
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='--l'", 115889.38497271617, 0.008628918
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='--l'", 82542.35062290172, 0.012114993
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='--l'", 88004.68044092457, 0.011363032
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='--l'", 88349.56388446527, 0.011318675
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='--l'", 50420.51719753085, 0.019833196
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='--l'", 52941.12010386625, 0.018888909
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='--l'", 115021.28526394452, 0.008694043
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='--l'", 112255.59431367042, 0.008908242
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Alice'", 1281693.0652715012, 0.000780218
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Alice'", 1146815.2939287599, 0.00087198
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Alice'", 1167043.621756494, 0.000856866
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Alice'", 863797.3047796496, 0.001157679
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Alice'", 950045.6496934679, 0.001052581
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Alice'", 668965.2312010736, 0.001494846
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Alice'", 604093.8230198409, 0.001655372
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Alice'", 819684.224849219, 0.001219982
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Gryphon'", 196831.05931129996, 0.005080499
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Gryphon'", 198404.98266337262, 0.005040196
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Gryphon'", 196405.04140316474, 0.005091519
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Gryphon'", 205847.04411878527, 0.004857976
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Gryphon'", 12411.646761653661, 0.080569486
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Gryphon'", 32540.1561797336, 0.03073126
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Gryphon'", 54104.15742838179, 0.018482868
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Gryphon'", 88826.30779417098, 0.011257926
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Panther'", 101293.87734223099, 0.009872265
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Panther'", 114549.3873383293, 0.008729859
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Panther'", 86460.70343736632, 0.011565948
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Panther'", 128274.36347053986, 0.00779579
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Panther'", 55362.17854158638, 0.018062873
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Panther'", 56599.47629636573, 0.017668008
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Panther'", 124171.52756806588, 0.008053376
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Panther'", 29986.726675304446, 0.033348088
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Ou est ma chatte?'", 22758.220286236054, 0.043940167
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Ou est ma chatte?'", 45157.876678444896, 0.022144531
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Ou est ma chatte?'", 45843.691715476445, 0.021813252
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Ou est ma chatte?'", 39740.31295099046, 0.025163365
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Ou est ma chatte?'", 10571.51703690357, 0.094593803
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Ou est ma chatte?'", 45861.876045163495, 0.021804603
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Ou est ma chatte?'", 42092.28455579781, 0.023757323
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Ou est ma chatte?'", 50298.625454253175, 0.019881259
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='found it very'", 8783.182390977057, 0.113853949
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='found it very'", 9280.686990603972, 0.107750644
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='found it very'", 7977.902550223509, 0.125346229
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='found it very'", 9382.95774510711, 0.106576202
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='found it very'", 7556.113398220701, 0.13234317
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='found it very'", 8024.0411184605, 0.124625483
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='found it very'", 6131.393782180544, 0.163095054
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='found it very'", 8793.164081690395, 0.113724706
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='among mad people'", 12753.70808004416, 0.078408569
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='among mad people'", 16080.480877132342, 0.062187195
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='among mad people'", 16649.675672642734, 0.06006123
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='among mad people'", 13814.221486839026, 0.072389168
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='among mad people'", 13221.886580224089, 0.075632172
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='among mad people'", 12246.832708816304, 0.081653765
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='among mad people'", 14710.536723494204, 0.067978485
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='among mad people'", 3924.5686446752966, 0.254805073
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='neighbouring pool'", 7407.166317860736, 0.135004394
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='neighbouring pool'", 8832.726800288807, 0.113215321
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='neighbouring pool'", 6780.83214711151, 0.147474525
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='neighbouring pool'", 7787.301569724535, 0.128414187
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='neighbouring pool'", 4032.799988275844, 0.247966674
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='neighbouring pool'", 4818.636566494392, 0.207527583
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='neighbouring pool'", 5561.891322256512, 0.179794955
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='neighbouring pool'", 6488.567766497936, 0.154117216
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Soo--oop'", 7544.667714802084, 0.132543942
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Soo--oop'", 5486.605566290831, 0.182262054
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Soo--oop'", 4465.135704694571, 0.223957359
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Soo--oop'", 6023.854487867373, 0.166006666
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Soo--oop'", 5414.540935943684, 0.184687864
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Soo--oop'", 2606.671712123055, 0.383630971
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Soo--oop'", 5148.500755807634, 0.194231301
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Soo--oop'", 6869.862545042254, 0.14556332
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 11934.67474621869, 0.083789464
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 11961.513733869166, 0.083601459
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 12155.342259552197, 0.082268354
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 11893.819024886674, 0.084077284
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 10721.515538542368, 0.093270396
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 10729.49607784344, 0.093201022
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 12258.103939772993, 0.081578685
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 12288.872561073547, 0.08137443
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 42417.385461076345, 0.023575239
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 42199.50219779227, 0.023696962
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 43175.982064697055, 0.023161025
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 38372.929463878754, 0.026060038
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 35152.877932721116, 0.028447173
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 31258.876544098628, 0.031990913
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='venture to go near the house till she had brought herself down to'", 37593.95528296763, 0.026600021
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='venture to go near the house till she had brought herself down to'", 31853.810884816685, 0.031393418
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='</i> to the Caterpillar'", 13639.149618661651, 0.073318354
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='</i> to the Caterpillar'", 13270.390103686204, 0.075355735
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='</i> to the Caterpillar'", 14217.204016792339, 0.070337318
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='</i> to the Caterpillar'", 14531.40230953099, 0.068816483
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='</i> to the Caterpillar'", 13005.823630652922, 0.076888633
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='</i> to the Caterpillar'", 11652.561629233202, 0.08581804
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='</i> to the Caterpillar'", 13792.968372309733, 0.07250071
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='</i> to the Caterpillar'", 13920.145415407067, 0.07183833
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='@'", 1190480.4421920555, 0.000839997
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='@'", 914541.5768891685, 0.001093444
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='@'", 971647.3308847821, 0.00102918
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='@'", 807480.4993459408, 0.00123842
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='@'", 689253.5039925008, 0.001450845
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='@'", 579316.209904801, 0.001726173
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='@'", 821504.3552053391, 0.001217279
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='@'", 827708.3652345932, 0.001208155
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='SQ'", 490974.65834300965, 0.002036765
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='SQ'", 449383.2664051855, 0.002225272
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='SQ'", 351086.98285326286, 0.002848297
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='SQ'", 409881.757310651, 0.002439728
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='SQ'", 258932.39068133396, 0.003862012
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='SQ'", 298219.0359175007, 0.00335324
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='SQ'", 422836.7355481803, 0.002364979
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='SQ'", 327686.63720108423, 0.003051696
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='10x'", 897677.3496255788, 0.001113986
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='10x'", 767886.3773885106, 0.001302276
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='10x'", 710511.3763529024, 0.001407437
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='10x'", 690474.2176927114, 0.00144828
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='10x'", 897351.1092605738, 0.001114391
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='10x'", 697943.857396111, 0.00143278
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='10x'", 998907.1955280923, 0.001001094
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='10x'", 763938.438784849, 0.001309006
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='--l'", 117614.14070109084, 0.008502379
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='--l'", 109689.0053444871, 0.009116684
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='--l'", 120352.61390231556, 0.008308918
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='--l'", 85363.55612965392, 0.011714601
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='--l'", 51996.94257977631, 0.0192319
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='--l'", 52605.07152869391, 0.019009574
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='--l'", 117011.21985483823, 0.008546189
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='--l'", 103126.74090829496, 0.009696806
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Alice'", 1331884.2432766485, 0.000750816
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Alice'", 1180088.601052167, 0.000847394
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Alice'", 818677.6391301713, 0.001221482
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Alice'", 841376.8964635247, 0.001188528
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Alice'", 1181798.4135538097, 0.000846168
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Alice'", 605763.9652824557, 0.001650808
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Alice'", 929189.273067356, 0.001076207
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Alice'", 663001.5938558317, 0.001508292
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Gryphon'", 194001.73786756783, 0.005154593
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Gryphon'", 230564.98566346918, 0.004337172
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Gryphon'", 220888.98539283228, 0.004527161
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Gryphon'", 174328.6429630849, 0.005736292
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Gryphon'", 111038.75085846834, 0.009005865
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Gryphon'", 104760.30841434798, 0.0095456
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Gryphon'", 223217.02610188295, 0.004479945
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Gryphon'", 171693.00809412348, 0.005824349
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Panther'", 171770.77808039973, 0.005821712
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Panther'", 146528.62693152204, 0.006824605
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Panther'", 145086.43742139035, 0.006892443
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Panther'", 134246.17150055806, 0.007449002
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Panther'", 78717.91192237091, 0.012703589
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Panther'", 60706.79709724379, 0.01647262
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Panther'", 178009.36400458412, 0.005617682
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Panther'", 151600.98983318283, 0.006596263
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Ou est ma chatte?'", 43428.73888978859, 0.023026227
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Ou est ma chatte?'", 59499.92101385485, 0.016806745
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Ou est ma chatte?'", 55648.86324119347, 0.017969819
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Ou est ma chatte?'", 51334.24372903445, 0.019480174
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Ou est ma chatte?'", 44817.5676260121, 0.022312679
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Ou est ma chatte?'", 44240.589705825296, 0.022603677
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Ou est ma chatte?'", 56663.88541429092, 0.017647925
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Ou est ma chatte?'", 57229.74497681651, 0.017473431
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='found it very'", 10027.36729245661, 0.099727074
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='found it very'", 9278.054966370715, 0.107781211
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='found it very'", 10614.767867976745, 0.094208372
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='found it very'", 9668.168819724357, 0.103432203
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='found it very'", 8606.636946113209, 0.116189402
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='found it very'", 9008.261404467947, 0.111009212
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='found it very'", 8814.671004436786, 0.113447229
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='found it very'", 10070.212441503772, 0.099302771
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='among mad people'", 17633.094553607894, 0.056711543
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='among mad people'", 15674.85117003124, 0.063796459
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='among mad people'", 15564.863447663016, 0.064247271
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='among mad people'", 16077.491967845788, 0.062198756
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='among mad people'", 14891.130646024303, 0.067154068
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='among mad people'", 15154.612432834947, 0.065986511
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='among mad people'", 17839.605887426733, 0.05605505
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='among mad people'", 17277.50896469469, 0.057878714
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='neighbouring pool'", 9418.612147720949, 0.106172755
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='neighbouring pool'", 9288.956569464983, 0.107654718
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='neighbouring pool'", 9191.399074784578, 0.108797365
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='neighbouring pool'", 9436.308611189294, 0.105973643
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='neighbouring pool'", 8454.87948300644, 0.118274897
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='neighbouring pool'", 8224.778187190786, 0.121583826
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='neighbouring pool'", 8725.006205442538, 0.114613099
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='neighbouring pool'", 9912.12730636741, 0.100886517
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Soo--oop'", 7487.715821896203, 0.133552077
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Soo--oop'", 7317.708883304892, 0.136654794
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Soo--oop'", 7432.753040217117, 0.134539651
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Soo--oop'", 7336.778792260268, 0.136299598
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Soo--oop'", 6762.449917126853, 0.147875402
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Soo--oop'", 6601.25587836885, 0.151486326
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Soo--oop'", 7482.7683629960375, 0.133640379
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Soo--oop'", 7059.165342502549, 0.141659807
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 13696.268187394367, 0.073012589
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 12178.675392703823, 0.082110736
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 12900.981202186707, 0.077513484
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 12152.054329696146, 0.082290613
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 10369.899607653811, 0.096432949
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 10844.791234840635, 0.092210166
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 10005.851321794471, 0.099941521
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 12225.76777638249, 0.081794454
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 38598.52760512656, 0.025907724
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 39451.17264468313, 0.025347789
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 38882.15514765323, 0.025718739
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 36804.363937597314, 0.027170691
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 31072.76579900215, 0.032182523
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 29578.752422647718, 0.033808052
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='venture to go near the house till she had brought herself down to'", 37731.26435202968, 0.02650322
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='venture to go near the house till she had brought herself down to'", 37282.018561822275, 0.026822582
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='</i> to the Caterpillar'", 14861.870137781276, 0.067286283
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='</i> to the Caterpillar'", 15322.542116382001, 0.065263322
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='</i> to the Caterpillar'", 12529.908421530628, 0.079809043
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='</i> to the Caterpillar'", 13196.187294225252, 0.075779464
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='</i> to the Caterpillar'", 11773.770438956419, 0.084934559
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='</i> to the Caterpillar'", 11672.453265919157, 0.085671793
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='</i> to the Caterpillar'", 13663.411290609623, 0.073188165
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='</i> to the Caterpillar'", 13591.682586151424, 0.073574408
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='@'", 1234561.8046330635, 0.000810004
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='@'", 1100388.4371183028, 0.00090877
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='@'", 579898.4018000046, 0.00172444
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='@'", 621987.636129769, 0.001607749
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='@'", 1017265.0219525793, 0.000983028
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='@'", 611118.4445324455, 0.001636344
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='@'", 809542.8916062546, 0.001235265
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='@'", 678205.6577272379, 0.001474479
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='SQ'", 399044.68701927585, 0.002505985
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='SQ'", 351192.65024021576, 0.00284744
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='SQ'", 439764.1808556579, 0.002273946
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='SQ'", 236454.13380939432, 0.00422915
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='SQ'", 275291.8162074753, 0.003632509
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='SQ'", 267134.2584726973, 0.003743436
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='SQ'", 313051.6557145545, 0.003194361
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='SQ'", 237253.89060792513, 0.004214894
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='10x'", 912666.0709999443, 0.001095691
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='10x'", 371312.81731000944, 0.002693147
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='10x'", 790795.1445178128, 0.00126455
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='10x'", 767042.9267903549, 0.001303708
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='10x'", 706149.8591231031, 0.00141613
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='10x'", 535202.1164032491, 0.001868453
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='10x'", 534698.1682310152, 0.001870214
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='10x'", 432615.95513599494, 0.002311519
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='--l'", 97564.0024734426, 0.010249682
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='--l'", 75735.31416523023, 0.01320388
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='--l'", 90232.3075874994, 0.011082505
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='--l'", 91329.14686612709, 0.010949407
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='--l'", 47661.75482097458, 0.020981183
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='--l'", 51205.00744008758, 0.01952934
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='--l'", 100117.41770748734, 0.009988272
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='--l'", 100674.40779034676, 0.009933011
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Alice'", 1072075.6456575575, 0.00093277
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Alice'", 714610.862228028, 0.001399363
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Alice'", 622862.8020106012, 0.00160549
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Alice'", 687089.2494580584, 0.001455415
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Alice'", 912339.6677076461, 0.001096083
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Alice'", 694001.5365194019, 0.001440919
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Alice'", 601274.0998175133, 0.001663135
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Alice'", 451188.00056488736, 0.002216371
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Gryphon'", 243279.99824838404, 0.00411049
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Gryphon'", 212922.43278358178, 0.004696546
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Gryphon'", 217280.2080327624, 0.004602352
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Gryphon'", 214533.8533347893, 0.004661269
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Gryphon'", 81502.01032858677, 0.012269636
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Gryphon'", 84200.01815352391, 0.011876482
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Gryphon'", 166064.4064193857, 0.00602176
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Gryphon'", 156135.55751557727, 0.006404691
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Panther'", 114609.14785004126, 0.008725307
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Panther'", 143288.09202878314, 0.006978947
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Panther'", 169480.8395131697, 0.005900372
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Panther'", 149896.2268421572, 0.006671282
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Panther'", 63881.01165036338, 0.015654104
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Panther'", 75451.58528307774, 0.013253532
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Panther'", 146767.33927692135, 0.006813505
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Panther'", 93551.79298559883, 0.010689266
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Ou est ma chatte?'", 55744.39278301874, 0.017939024
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Ou est ma chatte?'", 50087.65590221166, 0.019964999
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Ou est ma chatte?'", 49977.48014744556, 0.020009012
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Ou est ma chatte?'", 50882.72107766346, 0.019653037
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Ou est ma chatte?'", 49776.51588779278, 0.020089795
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Ou est ma chatte?'", 49266.99821057336, 0.020297563
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Ou est ma chatte?'", 43301.48537951327, 0.023093896
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Ou est ma chatte?'", 57598.23869193939, 0.017361642
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='found it very'", 9624.791090300088, 0.103898359
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='found it very'", 10166.687415181234, 0.098360455
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='found it very'", 9689.670849632974, 0.10320268
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='found it very'", 9415.389254129623, 0.106209098
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='found it very'", 8337.221327022346, 0.119944039
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='found it very'", 8714.454329017604, 0.114751878
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='found it very'", 10035.038742675475, 0.099650836
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='found it very'", 9240.317549426389, 0.108221389
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='among mad people'", 15468.720244466416, 0.064646589
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='among mad people'", 15677.71410901301, 0.063784809
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='among mad people'", 17136.953511335214, 0.058353429
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='among mad people'", 17839.265364780866, 0.05605612
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='among mad people'", 15953.438676760537, 0.062682411
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='among mad people'", 13920.144059014061, 0.071838337
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='among mad people'", 15808.01032351599, 0.063259068
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='among mad people'", 14901.281765043712, 0.067108321
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='neighbouring pool'", 9181.347449961082, 0.108916475
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='neighbouring pool'", 8550.68534170548, 0.11694969
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='neighbouring pool'", 8892.542340506472, 0.11245378
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='neighbouring pool'", 9072.823736473883, 0.110219269
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='neighbouring pool'", 6017.487516752234, 0.166182314
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='neighbouring pool'", 7524.284628638932, 0.132903
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='neighbouring pool'", 6353.989794094513, 0.15738143
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='neighbouring pool'", 8476.222669691435, 0.11797708
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Soo--oop'", 7147.474820018007, 0.139909552
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Soo--oop'", 7044.254287774186, 0.141959668
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Soo--oop'", 5290.838251683345, 0.189005967
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Soo--oop'", 5755.77637629995, 0.173738508
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Soo--oop'", 6160.233956322106, 0.162331497
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Soo--oop'", 6373.986994198238, 0.156887675
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Soo--oop'", 6731.395904310433, 0.148557597
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Soo--oop'", 7591.217204613213, 0.13173118
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 11338.075702698783, 0.088198388
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 12107.372294009858, 0.082594305
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 11871.512342585824, 0.084235266
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 12705.570896050096, 0.078705633
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 11316.056845306277, 0.088370005
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 11504.46394484318, 0.086922781
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 12263.593482086471, 0.081542168
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 11308.985690288046, 0.08842526
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 34803.375718624455, 0.028732845
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 30779.950715758514, 0.032488681
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 40447.761574359545, 0.024723247
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 39638.70902274132, 0.025227865
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 32551.928626901707, 0.030720146
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 31306.226961943245, 0.031942527
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='venture to go near the house till she had brought herself down to'", 33286.8537898248, 0.03004189
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='venture to go near the house till she had brought herself down to'", 36512.06654426362, 0.027388206
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='</i> to the Caterpillar'", 13389.608429336937, 0.074684783
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='</i> to the Caterpillar'", 10780.557187492344, 0.092759584
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='</i> to the Caterpillar'", 13677.142970663144, 0.073114685
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='</i> to the Caterpillar'", 14541.912452859118, 0.068766746
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='</i> to the Caterpillar'", 10675.526955486714, 0.093672191
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='</i> to the Caterpillar'", 12031.868569643042, 0.08311261
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='</i> to the Caterpillar'", 14587.808842695003, 0.068550391
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='</i> to the Caterpillar'", 13529.671781121624, 0.073911623
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='@'", 745671.0069690412, 0.001341074
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='@'", 778343.9797817367, 0.001284779
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='@'", 410267.1823998661, 0.002437436
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='@'", 510606.31436192594, 0.001958456
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='@'", 859346.4670118374, 0.001163675
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='@'", 602685.5668860442, 0.00165924
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='@'", 1093381.3254843133, 0.000914594
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='@'", 817633.4091552049, 0.001223042
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='SQ'", 353749.3897823026, 0.00282686
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='SQ'", 396806.9736444776, 0.002520117
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='SQ'", 329169.0161105192, 0.003037953
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='SQ'", 321470.8448446685, 0.003110702
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='SQ'", 210372.6773015665, 0.004753469
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='SQ'", 206955.355590692, 0.00483196
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='SQ'", 423017.3915140173, 0.002363969
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='SQ'", 316009.98212331533, 0.003164457
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='10x'", 835216.0495116075, 0.001197295
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='10x'", 1033727.4246852042, 0.000967373
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='10x'", 644205.3726728081, 0.0015523
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='10x'", 399774.6869864145, 0.002501409
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='10x'", 689004.1822553863, 0.00145137
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='10x'", 387880.1419331015, 0.002578116
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='10x'", 795746.2587989642, 0.001256682
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='10x'", 357432.8884008738, 0.002797728
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='--l'", 111693.94251358505, 0.008953037
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='--l'", 110499.65513057634, 0.009049802
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='--l'", 116115.48195588634, 0.008612116
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='--l'", 106489.76303258991, 0.009390574
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='--l'", 62590.33741637228, 0.015976907
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='--l'", 59487.35581380339, 0.016810295
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='--l'", 85055.93576031373, 0.011756969
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='--l'", 90829.89549748032, 0.011009591
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Alice'", 973010.6311141555, 0.001027738
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Alice'", 810987.2553352824, 0.001233065
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Alice'", 1194955.8523560348, 0.000836851
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Alice'", 812677.1128182749, 0.001230501
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Alice'", 1156839.6990365838, 0.000864424
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Alice'", 679137.9023467611, 0.001472455
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Alice'", 1178343.4611953823, 0.000848649
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Alice'", 727229.3579582891, 0.001375082
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Gryphon'", 228229.1630768121, 0.004381561
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Gryphon'", 193293.90008908915, 0.005173469
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Gryphon'", 175697.14871639176, 0.005691612
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Gryphon'", 140946.0751592127, 0.007094912
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Gryphon'", 87754.1304772289, 0.011395475
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Gryphon'", 78987.5065460896, 0.01266023
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Gryphon'", 200734.44719539853, 0.004981706
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Gryphon'", 202777.27815709522, 0.004931519
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Panther'", 167016.00848441324, 0.00598745
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Panther'", 139734.59370210598, 0.007156424
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Panther'", 159709.83916420647, 0.006261355
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Panther'", 154734.56832150128, 0.00646268
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Panther'", 54207.522876658804, 0.018447624
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Panther'", 37184.893815375, 0.026892641
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Panther'", 103033.14112500855, 0.009705615
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Panther'", 86954.96411107766, 0.011500206
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Ou est ma chatte?'", 53013.856284630965, 0.018862993
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Ou est ma chatte?'", 55133.50246821664, 0.018137792
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Ou est ma chatte?'", 50330.55599259255, 0.019868646
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Ou est ma chatte?'", 44470.97088445512, 0.022486579
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Ou est ma chatte?'", 45397.36540929584, 0.02202771
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Ou est ma chatte?'", 45422.15326533728, 0.022015689
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Ou est ma chatte?'", 50414.243758111654, 0.019835664
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Ou est ma chatte?'", 48201.517046346, 0.020746235
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='found it very'", 9240.2621358877, 0.108222038
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='found it very'", 9188.35797555996, 0.108833374
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='found it very'", 8601.33243068657, 0.116261057
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='found it very'", 9215.69351876771, 0.108510553
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='found it very'", 8129.314831999132, 0.123011597
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='found it very'", 8273.971723205197, 0.12086094
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='found it very'", 9446.098451035388, 0.105863813
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='found it very'", 9174.947439019857, 0.10899245
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='among mad people'", 15468.540307017423, 0.064647341
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='among mad people'", 15950.151819925084, 0.062695328
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='among mad people'", 15620.052592404676, 0.064020271
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='among mad people'", 14620.03885977089, 0.068399271
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='among mad people'", 13952.917470627957, 0.071669599
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='among mad people'", 13873.637714562918, 0.072079149
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='among mad people'", 16057.317687382714, 0.062276902
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='among mad people'", 15446.393830833875, 0.06474003
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='neighbouring pool'", 8702.444999786137, 0.114910235
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='neighbouring pool'", 8597.296855117407, 0.11631563
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='neighbouring pool'", 8528.527810390631, 0.117253531
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='neighbouring pool'", 8396.581070044002, 0.119096093
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='neighbouring pool'", 7122.0258277702715, 0.140409488
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='neighbouring pool'", 7588.610497340078, 0.13177643
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='neighbouring pool'", 8442.629718071805, 0.118446507
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='neighbouring pool'", 6313.717843169586, 0.158385285
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Soo--oop'", 6531.697199792828, 0.153099565
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Soo--oop'", 7100.862893308363, 0.140827955
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Soo--oop'", 6415.091415309272, 0.155882424
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Soo--oop'", 6824.755950480826, 0.146525386
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Soo--oop'", 4772.572210771469, 0.209530617
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Soo--oop'", 2453.7382977785346, 0.407541424
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Soo--oop'", 3303.26890665185, 0.302730425
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Soo--oop'", 4341.030185327348, 0.230360066
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 10709.285395944557, 0.093376912
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='aaaaaaaaaaaaaaaaa'", 11737.04856303608, 0.085200295
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 12235.517362578437, 0.081729278
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='aaaaaaaaaaaaaaaaa'", 11627.64697714957, 0.086001923
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 8081.760193792851, 0.123735421
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='aaaaaaaaaaaaaaaaa'", 9901.26988340839, 0.100997146
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 4361.002571814047, 0.22930507
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='aaaaaaaaaaaaaaaaa'", 9955.618152942725, 0.100445797
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 34870.59174696783, 0.02867746
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='venture to go near the house till she had brought herself down to'", 33909.55386081633, 0.029490214
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 30771.986992434922, 0.032497089
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='venture to go near the house till she had brought herself down to'", 30797.560734637624, 0.032470104
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 20074.388053860144, 0.049814719
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='venture to go near the house till she had brought herself down to'", 27147.19150223409, 0.036836223
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='venture to go near the house till she had brought herself down to'", 34020.66415140557, 0.0293939
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='venture to go near the house till she had brought herself down to'", 31777.775221432305, 0.031468534
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='</i> to the Caterpillar'", 12079.923674210257, 0.08278198
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='</i> to the Caterpillar'", 13311.786166282658, 0.075121399
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='</i> to the Caterpillar'", 14164.795697822923, 0.070597559
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='</i> to the Caterpillar'", 13381.70050849659, 0.074728918
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='</i> to the Caterpillar'", 10660.48665462714, 0.093804348
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='</i> to the Caterpillar'", 9442.072291640234, 0.105908954
+"new", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='</i> to the Caterpillar'", 14244.030148914213, 0.07020485
+"new", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='</i> to the Caterpillar'", 13656.741170244239, 0.073223911
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='@'", 1077446.8818687238, 0.00092812
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='@'", 608291.7464542674, 0.001643948
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='@'", 484503.4009716231, 0.002063969
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='@'", 418530.6977618234, 0.002389311
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='@'", 527771.3272393338, 0.00189476
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='@'", 425718.86888199416, 0.002348968
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='@'", 543741.8574656844, 0.001839108
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='@'", 439471.96564383956, 0.002275458
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='SQ'", 326908.3849058553, 0.003058961
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='SQ'", 289577.7493090675, 0.003453304
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='SQ'", 274863.7637754847, 0.003638166
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='SQ'", 242793.75981190283, 0.004118722
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='SQ'", 81753.28086135257, 0.012231925
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='SQ'", 163011.5935475447, 0.006134533
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='SQ'", 407173.9157874764, 0.002455953
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='SQ'", 203247.69491708002, 0.004920105
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='10x'", 589073.8580803261, 0.00169758
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='10x'", 910904.4370155126, 0.00109781
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='10x'", 506257.8533249497, 0.001975278
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='10x'", 531962.1477014181, 0.001879833
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='10x'", 776203.4646617849, 0.001288322
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='10x'", 628339.2302970096, 0.001591497
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='10x'", 486282.4581383746, 0.002056418
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='10x'", 640900.336793127, 0.001560305
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='--l'", 60593.58934367205, 0.016503396
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='--l'", 68348.62611059683, 0.014630872
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='--l'", 69004.8119125491, 0.014491743
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='--l'", 50337.03666267863, 0.019866088
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='--l'", 54453.96989588509, 0.018364134
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='--l'", 42598.911904513, 0.023474778
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='--l'", 89762.44100700173, 0.011140517
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='--l'", 74283.04603870057, 0.013462022
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Alice'", 1021183.4290522601, 0.000979256
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Alice'", 598470.5486658296, 0.001670926
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Alice'", 914317.4802873152, 0.001093712
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Alice'", 465842.3431124511, 0.002146649
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Alice'", 783346.676338387, 0.001276574
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Alice'", 489021.46804244706, 0.0020449
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Alice'", 612012.3332725401, 0.001633954
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Alice'", 860852.6401059193, 0.001161639
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Gryphon'", 207384.5920299198, 0.004821959
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Gryphon'", 202142.6718935371, 0.004947001
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Gryphon'", 198870.33693805704, 0.005028402
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Gryphon'", 197439.2134021738, 0.00506485
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Gryphon'", 71923.77173437487, 0.013903609
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Gryphon'", 52665.642530582016, 0.018987711
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Gryphon'", 117380.70129804275, 0.008519288
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Gryphon'", 163968.2144336956, 0.006098743
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Panther'", 91703.42598497274, 0.010904718
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Panther'", 164511.75461163462, 0.006078593
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Panther'", 155799.93294370887, 0.006418488
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Panther'", 122603.27456181897, 0.008156389
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Panther'", 72790.09984763576, 0.013738132
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='ucs2' search='Panther'", 71682.49643182453, 0.013950407
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='binary' search='Panther'", 156825.79571056357, 0.006376502
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='binary' search='Panther'", 91464.33764316341, 0.010933223
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='undefined' search='Ou est ma chatte?'", 39379.84618232081, 0.0253937
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='undefined' search='Ou est ma chatte?'", 41668.602520492095, 0.023998885
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='utf8' search='Ou est ma chatte?'", 39918.61871040746, 0.025050967
+"old", "buffers/buffer-indexof.js", "n=1000 type='string' encoding='utf8' search='Ou est ma chatte?'", 46639.909350672184, 0.021440865
+"old", "buffers/buffer-indexof.js", "n=1000 type='buffer' encoding='ucs2' search='Ou est ma chatte?'", 38169.972720683894, 0.026198604

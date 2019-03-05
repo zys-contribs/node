@@ -25,7 +25,7 @@ const bench = common.createBenchmark(main, {
   search: searchStrings,
   encoding: ['undefined', 'utf8', 'ucs2', 'binary'],
   type: ['buffer', 'string'],
-  n: [100000]
+  n: [1000]
 });
 
 function main({ n, search, encoding, type }) {
