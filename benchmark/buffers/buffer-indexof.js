@@ -23,9 +23,15 @@ const searchStrings = [
 
 const bench = common.createBenchmark(main, {
   search: searchStrings,
-  encoding: ['undefined', 'utf8', 'ucs2', 'binary'],
+  encoding: [
+    'utf8', 'utf-8', 'UTF8', 'UTF-8',
+    'ucs2', 'ucs-2', 'UCS2', 'UCS-2',
+    'utf16le', 'utf-16le', 'UTF16LE', 'UTF-16LE',
+    'latin1', 'LATIN1', 'binary', 'BINARY', 'base64', 'BASE64',
+    'ascii', 'ASCII', 'hex', 'HEX', 'undefined',
+  ],
   type: ['buffer', 'string'],
-  n: [100000]
+  n: [1000]
 });
 
 function main({ n, search, encoding, type }) {
@@ -35,10 +41,6 @@ function main({ n, search, encoding, type }) {
 
   if (encoding === 'undefined') {
     encoding = undefined;
-  }
-
-  if (encoding === 'ucs2') {
-    aliceBuffer = Buffer.from(aliceBuffer.toString(), encoding);
   }
 
   if (type === 'buffer') {
