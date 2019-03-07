@@ -43,6 +43,10 @@ function main({ n, search, encoding, type }) {
     encoding = undefined;
   }
 
+  if (/^(ucs-?2|utf-?16le)$/i.test(encoding)) {
+    aliceBuffer = Buffer.from(aliceBuffer.toString(), encoding);
+  }
+
   if (type === 'buffer') {
     search = Buffer.from(Buffer.from(search).toString(), encoding);
   }
