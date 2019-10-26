@@ -30,8 +30,12 @@ const testServer = new http.Server(function(req, res) {
 });
 
 testServer.listen(0, function() {
-  http.get({ port: this.address().port }, function(res) {
+  http.get({
+    port: this.address().port,
+    readableHighWaterMark: 1000000,
+  }, function(res) {
     assert.strictEqual(res.readable, true);
+    assert.strictEqual(res.readableHighWaterMark, 1000000);
     res.on('end', function() {
       assert.strictEqual(res.readable, false);
       testServer.close();
