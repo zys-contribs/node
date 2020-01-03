@@ -416,6 +416,14 @@ class Http2Options {
     return max_session_memory_;
   }
 
+  void SetSessionLocalWindowSize(uint32_t val) {
+    session_local_window_size_ = val;
+  }
+
+  uint32_t GetSessionLocalWindowSize() const {
+    return session_local_window_size;
+  }
+
  private:
   nghttp2_option* options_;
   uint64_t max_session_memory_ = DEFAULT_MAX_SESSION_MEMORY;
@@ -423,6 +431,7 @@ class Http2Options {
   padding_strategy_type padding_strategy_ = PADDING_STRATEGY_NONE;
   size_t max_outstanding_pings_ = DEFAULT_MAX_PINGS;
   size_t max_outstanding_settings_ = DEFAULT_MAX_SETTINGS;
+  uint32_t session_local_window_size_ = DEFAULT_SETTINGS_INITIAL_WINDOW_SIZE;
 };
 
 class Http2Priority {
@@ -753,6 +762,7 @@ class Http2Session : public AsyncWrap,
   inline nghttp2_session* operator*() { return session_; }
 
   inline uint32_t GetMaxHeaderPairs() const { return max_header_pairs_; }
+  inline uint32_t GetSessionLocalWindowSize() const { return session_local_window_size_; }
 
   inline const char* TypeName() const;
 
@@ -1038,6 +1048,8 @@ class Http2Session : public AsyncWrap,
   uint32_t rejected_stream_count_ = 0;
   // Also use the invalid frame count as a measure for rejecting input frames.
   uint32_t invalid_frame_count_ = 0;
+
+  uint32_t session_local_window_size_ = DEFAULT_SETTINGS_INITIAL_WINDOW_SIZE;
 
   void PushOutgoingBuffer(nghttp2_stream_write&& write);
   void CopyDataIntoOutgoing(const uint8_t* src, size_t src_length);

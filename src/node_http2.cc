@@ -201,6 +201,10 @@ Http2Options::Http2Options(Environment* env, nghttp2_session_type type) {
   if (flags & (1 << IDX_OPTIONS_MAX_SESSION_MEMORY)) {
     SetMaxSessionMemory(buffer[IDX_OPTIONS_MAX_SESSION_MEMORY] * 1e6);
   }
+
+  if (flags & (1 << IDX_OPTIONS_SESSION_LOCAL_WINDOW_SIZE)) {
+    SetSessionLocalWindowSize(buffer[IDX_OPTIONS_SESSION_LOCAL_WINDOW_SIZE]);
+  }
 }
 
 void Http2Session::Http2Settings::Init() {
@@ -542,6 +546,7 @@ Http2Session::Http2Session(Environment* env,
   max_outstanding_settings_ = opts.GetMaxOutstandingSettings();
 
   padding_strategy_ = opts.GetPaddingStrategy();
+  session_local_window_size_ = opts.GetSessionLocalWindowSize();
 
   bool hasGetPaddingCallback =
       padding_strategy_ != PADDING_STRATEGY_NONE;
@@ -2464,7 +2469,16 @@ void Http2Session::New(const FunctionCallbackInfo<Value>& args) {
   int val = args[0]->IntegerValue(env->context()).ToChecked();
   nghttp2_session_type type = static_cast<nghttp2_session_type>(val);
   Http2Session* session = new Http2Session(env, args.This(), type);
-  nghttp2_session_set_local_window_size(session->session(), NGHTTP2_FLAG_NONE, 0, 64 * 1024 * 1024);
+
+  if (session->GetSessionLocalWindowSize() != DEFAULT_SETTINGS_INITIAL_WINDOW_SIZE) {
+    nghttp2_session_set_local_window_size(
+      session->session(),
+      NGHTTP2_FLAG_NONE,
+      0,
+      session->GetSessionLocalWindowSize()
+    );
+  }
+
   session->get_async_id();  // avoid compiler warning
   Debug(session, "session created");
 }
