@@ -106,11 +106,19 @@ p.then(common.mustCall(() => {}));
   const http2 = require('http2');
 
   const localWindowSize = 64 * 1024 * 1024;
-  const server = http2.createServer({ sessionLocalWindowSize: localWindowSize });
+  const server = http2.createServer({
+    sessionLocalWindowSize: localWindowSize
+  });
 
   server.on('stream', (stream) => {
-    assert.strictEqual(stream.session.state.localWindowSize, localWindowSize);
-    assert.strictEqual(stream.session.state.effectiveLocalWindowSize, localWindowSize);
+    assert.strictEqual(
+      stream.session.state.localWindowSize,
+      localWindowSize
+    );
+    assert.strictEqual(
+      stream.session.state.effectiveLocalWindowSize,
+      localWindowSize
+    );
     stream.respond({
       ':status': 200
     });
