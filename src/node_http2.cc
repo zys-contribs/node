@@ -2464,6 +2464,7 @@ void Http2Session::New(const FunctionCallbackInfo<Value>& args) {
   int val = args[0]->IntegerValue(env->context()).ToChecked();
   nghttp2_session_type type = static_cast<nghttp2_session_type>(val);
   Http2Session* session = new Http2Session(env, args.This(), type);
+  nghttp2_session_set_local_window_size(session->session(), NGHTTP2_FLAG_NONE, 0, 64 * 1024 * 1024);
   session->get_async_id();  // avoid compiler warning
   Debug(session, "session created");
 }
