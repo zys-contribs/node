@@ -101,3 +101,34 @@ for (const buffers of buffersList) {
   }
 }
 p.then(common.mustCall(() => {}));
+
+{
+  const http2 = require('http2');
+
+  const localWindowSize = 64 * 1024 * 1024;
+  const server = http2.createServer({ sessionLocalWindowSize: localWindowSize });
+
+  server.on('stream', (stream) => {
+    assert.strictEqual(stream.session.state.localWindowSize, localWindowSize);
+    assert.strictEqual(stream.session.state.effectiveLocalWindowSize, localWindowSize);
+    stream.respond({
+      ':status': 200
+    });
+    stream.end('hello');
+  });
+
+  server.listen(8443, () => {
+    const client = http2.connect('http://localhost:8443');
+    const request = client.request({
+      ':path': '/'
+    });
+
+    request.on('end', () => {
+      server.close();
+      client.close();
+    });
+
+    request.resume();
+    request.end();
+  });
+}
