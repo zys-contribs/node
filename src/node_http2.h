@@ -421,7 +421,7 @@ class Http2Options {
   }
 
   uint32_t GetSessionLocalWindowSize() const {
-    return session_local_window_size;
+    return session_local_window_size_;
   }
 
  private:
