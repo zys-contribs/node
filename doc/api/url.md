@@ -1023,6 +1023,36 @@ new URL('/some/path%.c', 'file:'); // Incorrect: file:///some/path%.c
 pathToFileURL('/some/path%.c');    // Correct:   file:///some/path%25.c (POSIX)
 ```
 
+### `url.urlToOptions(url)`
+<!-- YAML
+added: REPLACEME
+-->
+
+* `url` {URL} The [WHATWG URL][] object to convert to an options object.
+* Returns: {Object} Options object
+
+This utility function converts a URL object into an ordinary options object as
+expected by the [`http.request()`][] and [`https.request()`][] APIs.
+
+```js
+const { urlToOptions } = require('url');
+const myURL = new URL('https://a:b@測試?abc#foo');
+
+console.log(urlToOptions(myUrl));
+/**
+{
+  protocol: 'https:',
+  hostname: 'xn--g6w251d',
+  hash: '#foo',
+  search: '?abc',
+  pathname: '/',
+  path: '/?abc',
+  href: 'https://a:b@xn--g6w251d/?abc#foo',
+  auth: 'a:b'
+}
+*/
+```
+
 ## Legacy URL API
 <!-- YAML
 deprecated: v11.0.0
@@ -1382,6 +1412,8 @@ console.log(myURL.origin);
 [`TypeError`]: errors.md#errors_class_typeerror
 [`URLSearchParams`]: #url_class_urlsearchparams
 [`array.toString()`]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/toString
+[`http.request()`]: http.md#http_http_request_options_callback
+[`https.request()`]: https.md#https_https_request_options_callback
 [`new URL()`]: #url_new_url_input_base
 [`querystring`]: querystring.md
 [`require('url').format()`]: #url_url_format_url_options
