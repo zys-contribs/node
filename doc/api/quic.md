@@ -683,7 +683,7 @@ added: v15.0.0
 
 Emitted after the TLS handshake has been completed.
 
-The callback will be invoked with two arguments:
+The callback will be invoked with three arguments:
 
 * `servername` {string} The SNI servername requested by the client.
 * `alpnProtocol` {string} The negotiated ALPN protocol.
@@ -702,6 +702,8 @@ added: v15.0.0
 -->
 
 Emitted when a new `QuicStream` has been initiated by the connected peer.
+The callback is invoked with a single argument providing the newly created
+`QuicStream` object.
 
 The `'stream'` event may be emitted multiple times.
 
