@@ -1,6 +1,6 @@
 # Onboarding
 
-This document is an outline of the things we tell new Collaborators at their
+This document is an outline of the things we tell new collaborators at their
 onboarding session.
 
 ## One week before the onboarding session
@@ -18,7 +18,7 @@ onboarding session.
 ## Fifteen minutes before the onboarding session
 
 * Prior to the onboarding session, add the new Collaborator to
-  [the Collaborators team](https://github.com/orgs/nodejs/teams/collaborators).
+  [the collaborators team](https://github.com/orgs/nodejs/teams/collaborators).
 * Ask them if they want to join any subsystem teams. See
   [Who to CC in the issue tracker][who-to-cc].
 
@@ -26,7 +26,7 @@ onboarding session.
 
 * This session will cover:
   * [local setup](#local-setup)
-  * [project goals & values](#project-goals--values)
+  * [project goals and values](#project-goals-and-values)
   * [managing the issue tracker](#managing-the-issue-tracker)
   * [reviewing PRs](#reviewing-prs)
   * [landing PRs](#landing-prs)
@@ -46,7 +46,7 @@ onboarding session.
     * `git merge --ff-only upstream/master` (or `REMOTENAME/BRANCH`)
   * Make a new branch for each PR you submit.
   * Membership: Consider making your membership in the Node.js GitHub
-    organization public. This makes it easier to identify Collaborators.
+    organization public. This makes it easier to identify collaborators.
     Instructions on how to do that are available at
     [Publicizing or hiding organization membership][].
 
@@ -60,7 +60,7 @@ The project has two venues for real-time discussion:
 * [`#nodejs-dev`](https://openjs-foundation.slack.com/archives/C019Y2T6STH) on
   the [OpenJS Foundation](https://slack-invite.openjsf.org/)
 
-## Project goals & values
+## Project goals and values
 
 * Collaborators are the collective owners of the project
   * The project has the goals of its contributors
@@ -101,11 +101,11 @@ The project has two venues for real-time discussion:
     * Some are WGs with some process around adding people, others are only there
       for notifications
 
-* When a discussion gets heated, you can request that other Collaborators keep
+* When a discussion gets heated, you can request that other collaborators keep
   an eye on it by opening an issue at the private
   [nodejs/moderation](https://github.com/nodejs/moderation) repository.
   * This is a repository to which all members of the `nodejs` GitHub
-    organization (not just Collaborators on Node.js core) have access. Its
+    organization (not just collaborators on Node.js core) have access. Its
     contents should not be shared externally.
   * You can find the full moderation policy
     [here](https://github.com/nodejs/admin/blob/HEAD/Moderation-Policy.md).
@@ -224,7 +224,7 @@ needs to be pointed out separately during the onboarding.
 * Don't worry about making mistakes: everybody makes them, there's a lot to
   internalize and that takes time (and we recognize that!)
 * Almost any mistake you could make can be fixed or reverted.
-* The existing Collaborators trust you and are grateful for your help!
+* The existing collaborators trust you and are grateful for your help!
 * Other repositories:
   * [https://github.com/nodejs/TSC](https://github.com/nodejs/TSC)
   * [https://github.com/nodejs/build](https://github.com/nodejs/build)

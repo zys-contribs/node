@@ -302,6 +302,52 @@ Reads data from the file and stores that in the given buffer.
 If the file is not modified concurrently, the end-of-file is reached when the
 number of bytes read is zero.
 
+#### `filehandle.readableWebStream()`
+<!-- YAML
+added: REPLACEME
+-->
+
+> Stability: 1 - Experimental
+
+* Returns: {ReadableStream}
+
+Returns a `ReadableStream` that may be used to read the files data.
+
+An error will be thrown if this method is called more than once or is called
+after the `FileHandle` is closed or closing.
+
+```mjs
+import {
+  open,
+} from 'node:fs/promises';
+
+const file = await open('./some/file/to/read');
+
+for await (const chunk of file.readableWebStream())
+  console.log(chunk);
+
+await file.close();
+```
+
+```cjs
+const {
+  open,
+} = require('fs/promises');
+
+(async () => {
+  const file = await open('./some/file/to/read');
+
+  for await (const chunk of file.readableWebStream())
+    console.log(chunk);
+
+  await file.close();
+})();
+```
+
+While the `ReadableStream` will read the file to completion, it will not
+close the `FileHandle` automatically. User code must still call the
+`fileHandle.close()` method.
+
 #### `filehandle.readFile(options)`
 <!-- YAML
 added: v10.0.0
@@ -796,7 +842,7 @@ rejection only when `recursive` is false.
 <!-- YAML
 added: v10.0.0
 changes:
-  - version: REPLACEME
+  - version: v16.5.0
     pr-url: https://github.com/nodejs/node/pull/39028
     description: The `prefix` parameter now accepts an empty string.
 -->
@@ -2571,7 +2617,7 @@ See the POSIX mkdir(2) documentation for more details.
 <!-- YAML
 added: v5.10.0
 changes:
-  - version: REPLACEME
+  - version: v16.5.0
     pr-url: https://github.com/nodejs/node/pull/39028
     description: The `prefix` parameter now accepts an empty string.
   - version: v10.0.0
@@ -2966,8 +3012,8 @@ to read a complete file into memory.
 The additional read overhead can vary broadly on different systems and depends
 on the type of file being read. If the file type is not a regular file (a pipe
 for instance) and Node.js is unable to determine an actual file size, each read
-operation will load on 64kb of data. For regular files, each read will process
-512kb of data.
+operation will load on 64 KB of data. For regular files, each read will process
+512 KB of data.
 
 For applications that require as-fast-as-possible reading of file contents, it
 is better to use `fs.read()` directly and for application code to manage
@@ -4512,7 +4558,7 @@ See the POSIX mkdir(2) documentation for more details.
 <!-- YAML
 added: v5.10.0
 changes:
-  - version: REPLACEME
+  - version: v16.5.0
     pr-url: https://github.com/nodejs/node/pull/39028
     description: The `prefix` parameter now accepts an empty string.
 -->
